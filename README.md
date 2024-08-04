@@ -39,3 +39,4 @@
 [![Static Badge](https://img.shields.io/badge/PocketFreddie-black?style=for-the-badge&logo=bruno&logoColor=black&labelColor=yellow)](https://github.com/PocketFreddie)
 [![Static Badge](https://img.shields.io/badge/byakishman-black?style=for-the-badge&logo=bruno&logoColor=black&labelColor=indigo)](https://github.com/byakishman)
 [![Static Badge](https://img.shields.io/badge/valueromel-black?style=for-the-badge&logo=ko-fi&logoColor=black&labelColor=173B45)](https://github.com/valueromel)
+[![Static Badge](https://img.shields.io/badge/Orlov111-black?style=for-the-badge&logo=#181717=black&labelColor=orange)](https://github.com/Orlov111)
